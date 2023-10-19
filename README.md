@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href=&quothttps://github.com/se-ha-mu>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=se-ha-mu&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?se-ha-mu=se-ha-mu&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
