@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href=&quothttps://github.com/se-ha-mu>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?se-ha-mu=se-ha-mu&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
+https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
